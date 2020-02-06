@@ -1,0 +1,5 @@
+{
+printf("enter name");
+printf("enter age");
+printf("enter dob");
+}
